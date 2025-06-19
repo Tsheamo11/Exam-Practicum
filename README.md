@@ -1,5 +1,5 @@
 # Exam-Practicum
-// MainActivity.kt // ... (previous code remains unchanged)
+// MainActivity.kt // 
 
 // README.md
 
