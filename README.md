@@ -65,7 +65,7 @@ activity_detail.xml: Layout for details screen
 
 GitHub Repository
 
-[]
+https://github.com/Tsheamo11/Exam-Practicum
 
 Author
 
