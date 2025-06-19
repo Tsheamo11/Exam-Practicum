@@ -27,16 +27,6 @@ Android Studio
 Android SDK
 
 
-Screenshots
-
-Main Screen
-
-Add a screenshot of your main screen here.
-
-Detailed View Screen
-
-Add a screenshot of the detailed view screen showing song details and average rating.
-
 How to Run
 
 1. Clone the repository:
